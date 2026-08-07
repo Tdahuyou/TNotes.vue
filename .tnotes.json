@@ -33,13 +33,12 @@
       "26.03": 0,
       "26.04": 10,
       "26.05": 38,
-      "26.06": 52
+      "26.06": 52,
+      "26.07": 52,
+      "26.08": 52
     },
     "details": "Vue.js 笔记",
-    "link": "https://tnotesjs.github.io/TNotes.vue/",
-    "created_at": 1727047134000,
-    "updated_at": 1782719671000,
-    "days_since_birth": 9863
+    "link": "https://tnotesjs.github.io/TNotes.vue/"
   },
   "port": 9379,
   "menuItems": [
